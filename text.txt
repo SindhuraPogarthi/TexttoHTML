@@ -1,0 +1,10 @@
+
+&lt;h1>This is a simple page&lt;/h1>
+&lt;li>This is a list (1st element)&lt;/li>
+&lt;li>This is the 2nd element&lt;/li>
+&lt;li>This is the 3rd element&lt;/li>&lt;br />&lt;b>those words will be bold&lt;/b>.&lt;br />this is a para
+
+<h1&gt;This is a simple page</h1&gt;
+<li&gt;This is a list (1st element)</li&gt;
+<li&gt;This is the 2nd element</li&gt;
+<li&gt;This is the 3rd element</li&gt;<br /&gt;<b&gt;those words will be bold</b&gt;.<br /&gt;this is a para
